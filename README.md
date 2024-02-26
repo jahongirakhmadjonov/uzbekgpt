@@ -1,2 +1,2 @@
-# uzbekgpt
-it about my chat gpt bot
+# chatbot
+This is a chatbot app.
